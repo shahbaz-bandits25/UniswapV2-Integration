@@ -15,7 +15,7 @@ npx hardhat help
 ```
 # UniswapV2-Integration
 Also run these commands to import uniswap contracts
-npm init
-npm i --save @uniswap/v2-core
-npm i --save @uniswap/v2-periphery
+1) npm init
+2) npm i --save @uniswap/v2-core
+3) npm i --save @uniswap/v2-periphery
 
